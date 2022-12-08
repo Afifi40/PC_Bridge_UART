@@ -1,0 +1,33 @@
+D:\Lectures\4th year\Computer Interface\Lab3\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\Lectures\4th year\Computer Interface\Lab3\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\Lectures\4th year\Computer Interface\Lab3\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\Lectures\4th year\Computer Interface\Lab3\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+D:\Lectures\4th year\Computer Interface\Lab3\Lab2\Lab2\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+D:\Lectures\4th year\Computer Interface\Lab3\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+D:\Lectures\4th year\Computer Interface\Lab3\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\Lectures\4th year\Computer Interface\Lab3\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+D:\Lectures\4th year\Computer Interface\Lab3\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\Lectures\4th year\Computer Interface\Lab3\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\Lectures\4th year\Computer Interface\Lab3\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\ahmed\OneDrive\Desktop\Study\University\CI\CI Workspace\pc_bridge_uart\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\ahmed\OneDrive\Desktop\Study\University\CI\CI Workspace\pc_bridge_uart\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\ahmed\OneDrive\Desktop\Study\University\CI\CI Workspace\pc_bridge_uart\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\ahmed\OneDrive\Desktop\Study\University\CI\CI Workspace\pc_bridge_uart\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\Users\ahmed\OneDrive\Desktop\Study\University\CI\CI Workspace\pc_bridge_uart\Lab2\Lab2\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed\OneDrive\Desktop\Study\University\CI\CI Workspace\pc_bridge_uart\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\ahmed\OneDrive\Desktop\Study\University\CI\CI Workspace\pc_bridge_uart\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\ahmed\OneDrive\Desktop\Study\University\CI\CI Workspace\pc_bridge_uart\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\ahmed\OneDrive\Desktop\Study\University\CI\CI Workspace\pc_bridge_uart\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\Study\University\CI\CI Workspace\pc_bridge_uart\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\ahmed\OneDrive\Desktop\Study\University\CI\CI Workspace\pc_bridge_uart\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\husse\Downloads\Compressed\pc_bridge_uart_5\pc_bridge_uart\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\husse\Downloads\Compressed\pc_bridge_uart_5\pc_bridge_uart\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\husse\Downloads\Compressed\pc_bridge_uart_5\pc_bridge_uart\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\husse\Downloads\Compressed\pc_bridge_uart_5\pc_bridge_uart\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\Users\husse\Downloads\Compressed\pc_bridge_uart_5\pc_bridge_uart\Lab2\Lab2\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\husse\Downloads\Compressed\pc_bridge_uart_5\pc_bridge_uart\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\husse\Downloads\Compressed\pc_bridge_uart_5\pc_bridge_uart\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\husse\Downloads\Compressed\pc_bridge_uart_5\pc_bridge_uart\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\husse\Downloads\Compressed\pc_bridge_uart_5\pc_bridge_uart\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\husse\Downloads\Compressed\pc_bridge_uart_5\pc_bridge_uart\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\husse\Downloads\Compressed\pc_bridge_uart_5\pc_bridge_uart\Lab2\Lab2\obj\Debug\Lab2.pdb
