@@ -1,0 +1,25 @@
+V(mV) = mT(°c) + 500mV						(1)
+
+m = 10 mV/°C
+
+T ranges in between -40:+125 °c
+V ranges in between 100:1750  mV
+
+Tolerance normally: ±2°c    max: ±4°c
+
+required 2.7:5 Voltage between Power and GND
+Supply Current 50uA
+
+Qualified for Automotive Application.
+
+ADC Reading 0:1023 -->  0:5 V 
+4.883mv/level	
+Vout(TMP36) = AnalogReading*4.883			 (2)
+
+lowest reading  = 100/4.883 = 20.48 = 21  levels
+Highest reading = 1750/4.883=358.39 = 359 levels
+ADC With TMP36:   100:1750  mV --> 21:359
+
+from(1),(2):
+Temp = V/10 - 50 = AnalogReading*4.883 / 10 - 50
+Temp = AnalogReading*.4883 - 50
